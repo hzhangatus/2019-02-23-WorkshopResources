@@ -1,0 +1,10 @@
+Uganda	2007	29170398	Africa	51.542
+United Kingdom	2007	60776238	Europe	79.425
+United States	2007	301139947	Americas	78.242
+Uruguay	2007	3447496	Americas	76.384
+Venezuela	2007	26084662	Americas	73.747
+Vietnam	2007	85262356	Asia	74.249
+West Bank and Gaza	2007	4018332	Asia	73.422
+Yemen, Rep.	2007	22211743	Asia	62.698
+Zambia	2007	11746035	Africa	42.384
+Zimbabwe	2007	12311143	Africa	43.487

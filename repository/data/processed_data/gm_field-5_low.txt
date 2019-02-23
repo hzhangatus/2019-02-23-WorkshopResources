@@ -1,0 +1,10 @@
+Uganda	1952	5824797	Africa	39.978
+United Kingdom	1952	50430000	Europe	69.18
+United States	1952	157553000	Americas	68.44
+Uruguay	1952	2252965	Americas	66.071
+Venezuela	1952	5439568	Americas	55.088
+Vietnam	1952	26246839	Asia	40.412
+West Bank and Gaza	1952	1030585	Asia	43.16
+Yemen, Rep.	1952	4963829	Asia	32.548
+Zambia	1952	2672000	Africa	42.038
+Zimbabwe	1952	3080907	Africa	48.451
